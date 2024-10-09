@@ -1,8 +1,8 @@
 Install module 
-voice : pip install speechrecogination , pyaudio
-system speak : pip install pyttsx3
-web app : pip install  flask
+1. voice : pip install speechrecogination , pyaudio
+2. system speak : pip install pyttsx3
+3. web app : pip install  flask
 
-To activate virtual environment : .venv\scripts\activate
-Run : python app_weather.py
+4 .To activate virtual environment : .venv\scripts\activate
+5. Run : python app_weather.py
 
